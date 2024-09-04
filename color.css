@@ -1,0 +1,138 @@
+.image{
+    width:100%;
+    height:300px;
+    display:flex;
+    
+    left:0%;
+
+}
+.content h1{
+    color:white;
+    font-size:250%;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    top:0%;
+    left:40%;
+    }
+
+
+.content h2{
+    color:white;
+    position:absolute;
+    text-align: right;
+    top:12%;
+    right:1%;
+    font-size: 150%;
+    text-shadow: 0px 0px 20px blue;
+    }
+
+.content h3{
+    color:white;
+    text-align: center;
+
+    font-style:normal;
+    position:absolute;
+    top:20%;
+    left:38%;
+    text-shadow: 0px 0px 20px blue;
+    
+}
+.content h4{
+    color: white;
+    text-align: left;
+    position: absolute;
+    font-weight: 150%;
+    text-shadow:0px 0px 20px blue ;
+    text-transform: uppercase;
+    top:35%;
+    left:0%;
+
+}
+.member{
+    background-color: orange;
+    color:white;
+    padding:0px 20px 0px 20px;
+    text-align: center;
+    
+}
+.back{
+    
+    background:linear-gradient(to bottom right, lightgreen, lightblue);
+
+}
+.box1{
+    background-color:white;
+    width:300px;
+    height:300px;
+    padding:10px 10px 20px 70px;
+    border:2px solid blue;
+    margin:5px;
+    right:40%;
+    margin-left: 40%;
+}
+.h2{
+    font-size: medium;
+    font-style: normal;
+    font-style: bold;
+
+}
+.box1 h2{
+    text-transform: capitalize;
+    text-align: center;
+    color: blue;
+
+}
+.p{
+    font-size: small;
+    font-style: normal;
+
+}
+.box1 p{
+    text-align: center;
+
+}
+.box2{
+    background-color: white;
+    width:330px;
+    height:300px;
+    padding:20px 0px 20px 50px;
+    border:2px solid blue;
+    margin:5px;
+    margin-left: 40%;
+    right:40%;
+
+}
+.box2 h2{
+    text-align: center;
+    color: blue;
+}
+
+.box2 p{
+    text-align: center;
+    
+}
+
+
+.box3{
+    background-color: white;
+    width:320px;
+    height:300px;
+    padding:10px 10px 20px 50px;
+    border:2px solid blue;
+    margin:5px;
+    margin-left: 40%;
+    
+    right:40%;
+}
+.box3 h2{
+    text-align: center;
+    color: blue;
+}
+.box3 p{
+    text-align: center;
+}
+
+
+
+
